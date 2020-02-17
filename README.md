@@ -1,0 +1,2 @@
+# XcodeSnippets
+SwiftのSnippetsを随時蓄積していくためのリポジトリ
